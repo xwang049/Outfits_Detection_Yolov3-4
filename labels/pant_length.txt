@@ -1,0 +1,6 @@
+Invisible
+ShortPant
+MidLength
+3/4Length
+CroppedPant
+FullLength

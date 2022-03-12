@@ -1,0 +1,9 @@
+Invisible
+Sleeveless
+CupSleeves
+ShortSleeves
+ElbowSleeves
+3/4Sleeves
+WristLength
+LongSleeves
+ExtraLongSleeves

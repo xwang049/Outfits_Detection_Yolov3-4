@@ -1,0 +1,9 @@
+checkered
+embellished
+embroidered
+floralprint
+geometricprint
+graphicprint
+plain
+polkaprint
+striped
